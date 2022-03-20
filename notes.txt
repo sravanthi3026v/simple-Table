@@ -1,0 +1,39 @@
+the class about:-
+HTML Tables
+html with css
+what is css?
+ways to use css
+property and value
+class vs id attribute
+use important
+display property:inline,block level
+**************************************
+
+selector in css:-
+1.universal selector
+*{
+    property:value
+}
+
+2.class selector
+.classname{
+
+}
+
+3.id selector
+#idname{
+
+}
+
+4.element selector
+element or tag{
+
+}
+
+padding and margin 2 box layout property in css.
+margin=>it is surrounded part outside the border which has 
+nothing to with content top, left, right, bottom.
+
+padding=>it is a part of content that lies b/w the border and content.
+
+border=>it is a box layout property which comes under padding and margin.
